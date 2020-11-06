@@ -1,0 +1,22 @@
+{
+    "name": "m.tuhin/advance-var-dumper",
+    "description": "Advance way of dumping PHP variables",
+    "type": "library",
+    "require": {
+        "php": "^7.2.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "M.Tuhin",
+            "email": "tuhin@codesolz.net"
+        }
+    ],
+    "autoload": {
+        "files": [ "src/functions/advance-dump.php" ],
+        "exclude-from-classmap": [
+            "/Tests/"
+        ]
+    },
+    "minimum-stability": "stable"
+}
