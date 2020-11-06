@@ -9,7 +9,13 @@ It takes 2 parameters. First one is your `data( array/ object/ string)` and seco
 
 `pre_print( $data = '', $text = '' )`
 
+## Install
 
+Via Composer
+
+``` bash
+$ composer require tuhin18003/advance-var-dumper
+```
 
 
 ### Credentials
