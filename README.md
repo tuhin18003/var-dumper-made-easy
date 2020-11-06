@@ -10,6 +10,8 @@ It takes 2 parameters. First one is your `data( array/ object/ string)` and seco
 `pre_print( $data = '', $text = '' )`
 
 
+
+
 ### Credentials
 - *Created & Supported by - [M.Tuhin](https://codesolz.net/)*
 

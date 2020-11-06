@@ -1,5 +1,5 @@
 {
-    "name": "m.tuhin/advance-var-dumper",
+    "name": "tuhin18003/advance-var-dumper",
     "description": "Advance way of dumping PHP variables",
     "type": "library",
     "require": {
