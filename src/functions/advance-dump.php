@@ -10,6 +10,7 @@
  */
 
 if (!function_exists('pre_print')) {
+    
     function pre_print( $data = '', $text = '' ){
         echo "<pre> \n------------------------------DEBUG MODE START------------------------------\n\n";
         echo empty($text) ? '': $text ."\n\n";
