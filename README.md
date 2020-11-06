@@ -35,7 +35,7 @@ pre_print($arr);
 ```
 ------------------------------DEBUG MODE START------------------------------
 
-File Name: E:\webApps\xampp-new-64\htdocs\my-websites\custom-scripts\proseooptimization.com\app\Http\Controllers\KeywordResearchTool\LongTailKeyword.php
+File Name: E:\webApps\xampp-new-64\htdocs\my-websites\custom-scripts\myScripts.php
 Line No: 30
 
 Array
