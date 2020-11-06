@@ -1,8 +1,9 @@
 <?php 
-require './vendor/autoload.php';
 
-$arr =['test','te1','hello'];
+// require './vendor/autoload.php';
 
-pre_print($arr);
+// $arr =['test','te1','hello'];
+
+// pre_print($arr);
 
 ?>
