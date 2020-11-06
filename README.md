@@ -33,10 +33,24 @@ pre_print($arr);
 ## Output
 
 ```
+------------------------------DEBUG MODE START------------------------------
+
+File Name: E:\webApps\xampp-new-64\htdocs\my-websites\custom-scripts\proseooptimization.com\app\Http\Controllers\KeywordResearchTool\LongTailKeyword.php
+Line No: 30
+
+Array
+(
+    [0] => test
+    [1] => te1
+    [2] => hello
+)
+
+
+------------------------------DEBUG MODE END------------------------------
 ```
 
 ### Credentials
-- *Created & Supported by - [M.Tuhin](https://codesolz.net/)*
+- *Created by - [M.Tuhin](https://codesolz.net/)*
 
 <a href="https://codesolz.net">
   <img src="https://codesolz.net/images/brand-logo/logo.png" alt="codesolz.net"/>
