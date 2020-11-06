@@ -11,7 +11,7 @@ of `print_r()`.
 Via Composer
 
 ``` bash
-$ composer require tuhin18003/advance-var-dumper
+$ composer require --dev tuhin18003/advance-var-dumper
 ```
 
 ## Usage
