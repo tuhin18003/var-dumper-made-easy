@@ -1,9 +1,9 @@
 <?php
 
 /*
- * This file is part of the 'Advance var dumper' package.
+ * Main file of the 'Advance var dumper' package.
  *
- * (c) M.Tuhin <tuhin@codesolz.net>
+ * (c) M.Tuhin <info@codesolz.net>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
